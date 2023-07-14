@@ -1,7 +1,3 @@
-<p align = "center">
-<img src = "images/Hybrid Encryption.png">
-</p>
-
 # Hybrid_Encryption
 The main aim of this project is to make files more secure using hybrid encryption,
 and store it in our local system.
